@@ -8,3 +8,5 @@ Nesse curso é ensinado a como contribuir com projetos de codigo aberto.
 [![Updates](https://pyup.io/repos/github/joaonetoeng/libpythonpro/shield.svg)](https://pyup.io/repos/github/joaonetoeng/libpythonpro/)
 
 [![Python 3](https://pyup.io/repos/github/joaonetoeng/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/joaonetoeng/libpythonpro/)
+
+[![codecov](https://codecov.io/gh/joaonetoeng/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/joaonetoeng/libpythonpro)
