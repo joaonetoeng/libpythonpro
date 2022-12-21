@@ -8,7 +8,7 @@ pyflakes==2.2.0
 py==1.8.2
 more-itertools==8.4.0
 six==1.15.0
-attrs==19.3.0
+attrs==22.2.0
 pluggy==0.13.1
 pytest==5.4.3
 
